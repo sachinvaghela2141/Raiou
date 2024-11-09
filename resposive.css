@@ -1,0 +1,1163 @@
+@media only screen and (max-width:1024px) {
+
+
+
+    .nav-bar-1 {}
+
+    .fa-phone {
+
+        display: none;
+
+
+    }
+
+    .l-right h1 {
+
+        display: none;
+
+
+
+    }
+
+
+    .nav-bar-2 {
+
+        /* border: 2px solid red; */
+    }
+
+    .nav-bar-2 img {
+
+
+        /* border: 2px solid blue; */
+
+
+
+
+    }
+
+    .nav-bar-2 ul {
+
+        /* border: 2px solid black; */
+        /* width: 70%; */
+        display: none;
+    }
+
+    .nav-bar-2 ul li a {
+        /* border: 2px solid red; */
+        font-size: 20px;
+
+
+    }
+
+
+    /* .-----------------------first-container--------------------------- */
+    .first-container {
+
+        padding: 20px;
+        height: 50vh;
+    }
+
+    .card-container {
+        /* border: 2px solid red; */
+        height: 30vh;
+
+    }
+
+    .card {
+
+        /* border: 2px solid red; */
+        width: 100%;
+
+
+    }
+
+    .card-2 {
+
+        /* border: 2px solid blue; */
+
+    }
+
+    .card-2-right h1 {
+        font-size: 20px;
+        /* border: 1px solid red; */
+    }
+
+    .card-2-right h2 {
+
+        font-size: 15px;
+
+        /* border: 2px solid red; */
+    }
+
+    .card-3 h2 {
+        /* font-size: 25px; */
+        /* border: 2px solid red; */
+    }
+
+    /* ---------------------------second-section---------------------------- */
+
+
+
+    .second-section {
+        height: auto;
+        width: 100%;
+        display: flex;
+
+        flex-direction: column;
+
+    }
+
+    .second-left {
+        width: 70%;
+
+    }
+
+    .second-left-card-1 {
+
+        height: 100px;
+        width: 350px;
+        right: -200px;
+        position: absolute;
+    }
+
+    .second-left-card-2 {
+
+        height: 100px;
+        width: 350px;
+        right: -200px;
+        position: absolute;
+    }
+
+    .second-right {
+        height: 60vh;
+        width: 100%;
+        /* border: 2px solid gold; */
+        padding: 50px;
+        display: flex;
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .second-right h1 {
+
+        font-size: 30px;
+        /* border: 1px solid red; */
+    }
+
+    .second-right h2 {
+
+
+        width: 800px;
+    }
+
+    .second-right h3 {
+        width: 900px;
+        /* border: 2px solid black; */
+        font-size: 20px;
+
+    }
+
+    .second-right p {
+
+
+        /* border: 3px solid red; */
+        font-size: 20px;
+        width: 750px;
+    }
+
+    .second-right-top {
+
+        /* border: 3px solid red; */
+        width: 650px;
+    }
+
+    .second-right-bottom {
+
+        width: 750px;
+        /* border: 2px solid red; */
+    }
+
+    /* ----------------------------- third-section ------------------------------ */
+    .third-section {
+
+        /* border: 2px solid blue; */
+        height: 70vh;
+    }
+
+
+
+    .third-section-right {
+
+        /* border: 2px solid black; */
+        display: none;
+    }
+
+    .third-section-left {
+
+        /* border: 2px solid red; */
+        height: auto;
+        width: 100%;
+    }
+
+    .third-section-left h1 {
+
+
+        font-size: 30px;
+        /* border: 2px solid red; */
+    }
+
+    .third-section-left h2 {
+
+
+        font-size: 40px;
+        /* border: 2px solid gold; */
+    }
+
+    .third-section-left p {
+
+
+        font-size: 20px;
+        width: 90%;
+    }
+
+    .third-section-left-top {
+
+        /* border: 3px solid gold; */
+        width: 70%;
+        height: 100px;
+    }
+
+    .third-section-left-top button {
+
+
+        padding: 15px 30px;
+        /* border: 2px solid gold; */
+        font-size: 20px;
+    }
+
+    .third-section-left-top h1 {
+
+
+        font-size: 40px;
+    }
+
+    .third-section-left-top h1 i {
+
+
+        font-size: 40px;
+    }
+
+    .third-section-left-bottom {
+
+
+        /* border: 5px solid rebeccapurple; */
+        width: 80%;
+        height: auto;
+    }
+
+    /* --------------------.fourth-section ------------------------------ */
+    .fourth-section {
+        /* border: 2px solid red; */
+        height: auto;
+
+
+    }
+
+    .fourth-section h1 {
+
+
+        /* border: 2px solid red; */
+        font-size: 30px;
+    }
+
+    .fourth-section h2 {
+
+        /* border: 2px solid red; */
+        /* font-size: 30px; */
+    }
+
+    .fourth-section h3 {
+
+
+        /* border: 3px solid gold; */
+        width: 80%;
+        font-size: 20px;
+    }
+
+    .fourth-section-bottom {
+
+
+        /* border: 4px solid blue; */
+        flex-wrap: wrap;
+
+
+    }
+
+    .fourth-card-1 {
+
+        width: 50%;
+        border-bottom-left-radius: 0px;
+        /* border-top-left-radius: 25px; */
+    }
+
+
+    .fourth-card-2 {
+        width: 50%;
+        /* border: 2px solid black; */
+        border-top-right-radius: 25px;
+    }
+
+    .fourth-card-3 {
+        width: 50%;
+        border-bottom-left-radius: 25px;
+    }
+
+    .fourth-card-4 {
+
+        border-top-right-radius: 0px;
+        width: 50%;
+        border-bottom-right-radius: 25px;
+
+    }
+
+    /* -------------------------------------------------fiveth-section---------------------------------------------- */
+
+    .fiveth-section {
+
+
+
+        width: 100%;
+        height: auto;
+        flex-direction: column;
+
+    }
+
+    .fiveth-section-left {
+
+
+
+        /* border: 2px solid red; */
+        width: 100%;
+    }
+
+    .fiveth-section-left-r-1 {
+
+        width: 80%;
+
+
+    }
+
+    .fiveth-section-right {
+
+
+        /* border: 3px solid gold; */
+        width: 100%;
+        height: auto;
+    }
+
+    .fiveth-section-right h1 {
+
+        font-size: 30px;
+
+    }
+
+    .fiveth-section-right h2 {
+
+        font-size: 40px;
+
+    }
+
+    .fiveth-section-right h3 {
+
+        font-size: 20px;
+    }
+
+    .fiveth-section-right span {
+
+        /* border: 2px solid red; */
+    }
+
+    .fiveth-section-right span img {
+
+        width: 30px;
+    }
+
+    .fiveth-section-right span h4 {
+        font-size: 20px;
+        /* border: 2px solid red; */
+    }
+
+    .fiveth-section-right button {
+
+
+        padding: 25px 40px;
+        font-size: 20px;
+        /* border: 3px solid green; */
+    }
+
+    /* ----------------------------.sixth-section-------------------- */
+    .sixth-section {
+
+        width: 100%;
+        height: 270vh;
+        display: flex;
+        justify-content: start;
+        align-items: center;
+        flex-direction: column;
+
+        /* border: 3px solid darkred; */
+
+
+
+    }
+
+    .sixth-section h1 {
+        font-size: 30px;
+    }
+
+    .sixth-section-card-top {
+        display: flex;
+        flex-wrap: wrap;
+        height: auto;
+        margin-top: 0px;
+        padding-top: 0px;
+        /* margin-top: -70% !important; */
+
+    }
+
+    .top-card-1 {
+        width: 100%;
+        border-top-right-radius: 25px;
+        height: 350px;
+    }
+
+    .top-card-2 {
+        width: 100%;
+        border-bottom-right-radius: 0px;
+    }
+
+    .top-card-3 {
+
+        width: 100%;
+        /* border-bottom-left-radius: 25px; */
+        /* border-bottom-right-radius: 25px; */
+        border-top-right-radius: 0px;
+    }
+
+    .sixth-section-card-bottom {
+
+
+        flex-direction: column;
+        height: auto;
+        padding-bottom: 200px;
+
+
+    }
+
+    .bottom-card-1 {
+
+        width: 100%;
+        border-bottom-left-radius: 0px;
+    }
+
+    .bottom-card-2 {
+        width: 100%;
+
+
+    }
+
+    .bottom-card-3 {
+
+        width: 100%;
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+
+    }
+
+    /* -----------------------   seventh-section ------------------------------ */
+    .seventh-section {
+
+
+        height: 140vh;
+        width: auto;
+        /* border: 2px solid red; */
+        display: flex;
+        flex-direction: column-reverse;
+
+
+        position: relative;
+
+
+    }
+
+    .seventh-left {
+        width: 100%;
+        /* border: 3px solid gold; */
+        display: none;
+
+
+
+    }
+
+    .seventh-center {
+
+
+
+        display: none;
+        width: 100%;
+    }
+
+    .seventh-right {
+        /* border: 4px solid red; */
+        width: 100%;
+        height: 500px;
+
+    }
+
+    .seventh-card {
+
+
+        width: 90%;
+        position: absolute;
+        bottom: 40px;
+        /* border: 2px solid red; */
+
+
+    }
+
+    .seventh-card-2 {
+
+        width: 90%;
+        /* border: 2px solid red; */
+
+
+    }
+
+    .background-line {
+
+        display: none;
+    }
+
+    /* ----------------------------------eight-section------------------------------ */
+
+    .eight-section {
+
+        /* border: 2px solid red; */
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+
+    }
+
+    .eight-left {
+
+
+        width: 100%;
+
+    }
+
+    .eight-left img {
+
+        height: 500px;
+
+    }
+
+    .eight-left h1 {
+
+        font-size: 30px;
+    }
+
+    .eight-left h2 {
+
+        font-size: 50px;
+    }
+
+    .eight-left p {
+
+        font-size: 20px;
+    }
+
+    .eight-left-bottom {
+        height: 500px;
+
+
+    }
+
+    .eight-right {
+
+
+
+        width: 100%;
+        height: auto;
+    }
+
+    /* ---------------------------nine-section----------------------------------------------------------- */
+    .nine-section {
+
+        flex-direction: column;
+        width: 100%;
+        /* border: 3px solid gold; */
+
+
+    }
+
+    .nine-section-left {
+
+
+        width: 100%;
+        /* border: 2px solid blue; */
+        height: 80vh;
+    }
+
+    .nine-section-left h1 {
+
+
+        /* border: 2px solid rebeccapurple; */
+        /* font-size: 30px; */
+    }
+
+    .nine-section-left p {
+
+
+        font-size: 20px;
+    }
+
+    .nine-section-right {
+
+
+        width: 100%;
+        /* border: 3px solid brown; */
+    }
+
+    /*------------------------------------------- ten-section----------------------------------- */
+    .ten-section {
+
+
+        flex-direction: column;
+    }
+}
+
+/* ------------------------------------------------------------------------------------------------------------------------------------- */
+@media only screen and (max-width:768px) {
+
+    .nav-bar-1 {
+
+        /* border: 2px solid red; */
+    }
+
+    .first-section {
+        height: 900px;
+    }
+
+    .first-container {
+        width: 100%;
+        height: 550px;
+
+        /* border: 2px solid blue; */
+    }
+
+    .first-container-left-top {
+        height: 500px;
+
+        /* border: 2px solid gold; */
+
+    }
+
+    .first-container-left-top h2 {
+
+        font-size: 40px;
+    }
+
+    .first-container-left-top h3 {
+        width: 100%;
+    }
+
+    .first-container-left-bottom button {
+        display: flex;
+        font-size: 15px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        width: 400px !important;
+        padding: 0 !important;
+    }
+
+    .first-container-left-top h1 {
+
+        font-size: 20px;
+        width: 550px;
+        /* border: 2px solid black; */
+    }
+
+    .first-container-left-top h3 {
+
+
+        font-size: 20px;
+    }
+
+    .first-container-left-bottom {
+
+        /* border: 2px solid red; */
+    }
+
+    .card-container {
+
+        /* border: 3px solid brown; */
+        /* height: auto; */
+    }
+
+    .card {
+
+
+        /* border: 2px solid green; */
+        width: 100%;
+        /* margin-top: -50px; */
+    }
+
+    .second-right {
+
+        overflow: hidden;
+    }
+
+    .nine-section-left {
+
+
+        overflow: hidden;
+    }
+
+
+
+
+
+
+    /* ----------------------------------..eleven-section------------------------------------- */
+
+
+    .eleven-section {
+
+
+        width: 100%;
+        /* border: 2px solid red; */
+        overflow: hidden;
+        height: 50vh;
+
+    }
+
+    .eleven-section-top-left h1 {
+
+        /* border: 2px solid gold; */
+        font-size: 30px;
+    }
+
+    .eleven-button-1 {
+
+        padding: 15px 90px;
+        /* border: 5px solid red; */
+
+    }
+
+    .eleven-button-2 {
+
+
+        display: none;
+    }
+
+
+    .eleven-section-bottom-left {
+
+        /* border: 3px solid red; */
+        overflow: hidden;
+        margin-left: 10px;
+
+
+    }
+
+
+}
+
+@media only screen and (max-width:431px) {
+    .first-container {
+
+        width: 100%;
+        overflow: hidden;
+        /* border: 2px solid red; */
+        height: auto;
+
+        flex-direction: column !important;
+
+
+        overflow: hidden;
+    }
+
+    .first-container-left-bottom button {
+
+
+        display: none;
+    }
+    .floting-div {
+
+        display: none;
+    }
+
+
+    .card-container {
+
+        border: 2px solid blue;
+        height: auto;
+        width: 100%;
+
+    }
+
+    .card-1 {
+
+        width: 50%;
+    }
+
+    .card-2 {
+
+        display: none;
+    }
+
+    .card-3 {
+
+        width: 50%;
+    }
+
+    .card-3 h1 {
+        font-size: 20px;
+        text-align: center;
+    }
+
+
+    /* -----------------------------------.second-section-------------------------------------------- */
+
+    .second-section {
+
+
+        /* border: 2px solid gold; */
+        flex-direction: column;
+        width: 100%;
+        height: auto;
+
+        overflow: hidden;
+
+    }
+
+    .second-left {
+
+        /* border: 3px solid black; */
+        width: 100%;
+        height: auto;
+    }
+
+    .second-left img {
+
+        height: auto;
+        width: 100%;
+    }
+
+    .second-left-card-1 {
+
+        display: none;
+    }
+
+    .second-left-card-2 {
+        display: none;
+
+    }
+
+
+    .second-right {
+
+        width: 100%;
+        height: auto;
+        /* border: 3px solid black; */
+
+
+
+    }
+
+    .second-right h2 {
+
+
+        font-size: 25px;
+        width: 350px;
+    }
+
+    .second-right h3 {
+
+        width: 350px;
+    }
+
+    .second-right p {
+
+        width: 350px;
+    }
+
+    .second-right-top {
+
+
+        /* border: 3px solid red; */
+        flex-direction: column;
+        align-items: start;
+        width: 400px;
+    }
+
+    .second-right-bottom {
+
+        /* border: 2px solid red; */
+        width: 400px;
+        align-items: start;
+    }
+
+    .second-right-bottom img {
+
+        display: none;
+    }
+
+    /*---------------------------.third-section----------------------------------------------  */
+
+    .third-section {
+
+
+        border: 3px solid hotpink;
+        height: auto;
+        width: 100%;
+        overflow: hidden;
+
+    }
+
+    .third-section-left {
+
+        /* border: 2px solid blue; */
+        width: 100%;
+    }
+
+    .third-section-left h2 {
+
+        font-size: 30px;
+        width: 390px;
+        /* border: 2px solid gold; */
+
+    }
+
+    .third-section-left-top {
+
+        /* border: 2px solid maroon; */
+        width: 100%;
+        height: 200px;
+
+        display: flex;
+        align-items: start;
+        justify-content: center;
+        flex-direction: column;
+        gap: 20px;
+
+    }
+
+    .third-section-left-top button {
+
+        width: 90%;
+
+    }
+
+    .third-section-left-bottom {
+
+
+        /* border: 2px solid gold; */
+        width: 100%;
+    }
+
+    .third-section-left-bottom-r {
+
+
+        display: flex;
+        align-items: center;
+        justify-content: center;
+
+    }
+
+    .third-section-left-bottom-r h1 {
+
+
+        font-size: 20px;
+        margin-left: 10px;
+    }
+
+    /* -----------------------------fourth-section--------------------------------------------------- */
+
+
+    .fourth-section {
+
+
+
+        overflow: hidden;
+        border: 4px solid maroon;
+        height: 100vh;
+    }
+
+    .fourth-section h2 {
+
+
+        font-size: 35px;
+    }
+
+    .fourth-section-bottom {
+
+
+        /* border: 2px solid gold; */
+        margin-bottom: 50px;
+        width: 100%;
+
+        
+
+
+
+    }
+
+    .fourth-card-1 {
+
+
+        /* border: 2px solid midnightblue; */
+        width: 100%;
+        border-top-left-radius: 25px;
+        border-top-right-radius: 25px;
+    }
+
+    
+
+    .fourth-card-2 {
+
+        display: none;
+    }
+
+    .fourth-card-3 {
+        width: 100%;
+        display: none;
+    }.fourth-card-4 {
+
+
+        width: 100%;
+        /* border: 4px solid red; */
+        border-bottom-left-radius: 25px;
+        border-bottom-right-radius: 25px;
+    }
+
+
+
+    /* ----------------------------------------------.fiveth-section----------------------------- */
+    .fiveth-section {
+
+
+
+
+        overflow: hidden;
+        border: 3px solid gold;
+        width: 100%;
+        padding: 0px;
+        
+    }
+    .fiveth-section-left{
+
+        border: 2px solid maroon;
+        width: 100%;
+        /* height: auto; */
+        margin-bottom: 50px;
+    }
+
+    /* -------------------------------.sixth-section------------------------- */
+    .sixth-section {
+
+
+        overflow: hidden;
+
+    }
+
+    /* --------------------------.seventh-section----------------------- */
+
+    .seventh-section {
+
+        border: 3px solid red;
+        overflow: hidden;
+        width: 100%;
+    }
+
+    .seventh-card {
+
+        border: 3px solid gold;
+        width: 85%;
+
+    }
+
+    .seventh-card p {
+
+        font-size: 30px;
+        width: 320px;
+
+    }
+
+    /* ----------------------------------------.seventh-right---------------------------------- */
+
+    .seventh-right {
+
+
+        overflow: hidden;
+    }
+
+    /* -----------------------------eight-section--------------------------------- */
+    .eight-section {
+
+
+
+        overflow: hidden;
+    }
+
+    /* --------------------------------nine-section-------------------------------- */
+    .nine-section {
+
+
+
+        overflow: hidden;
+    }
+
+    /* ----------------------------------ten-section---------------------------- */
+
+    .ten-section {
+        height: auto;
+        overflow: hidden;
+    }
+
+    .ten-card-section {
+        width: 100%;
+        display: flex;
+        flex-direction: column !important;
+        height: auto;
+        border: 1px solid red;
+    }
+
+    .ten-card-1 {
+        width: 100%;
+    }
+
+    .ten-card-2 {
+        width: 100%;
+    }
+
+    .ten-card-3 {
+        width: 100%;
+    }
+
+
+
+    /* --------------------------------.eleven-section----------- */
+    .eleven-section {
+
+        display: none;
+
+
+
+    }
+
+
+}
